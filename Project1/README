@@ -1,0 +1,20 @@
+When prompted by terimal user is given options 1-8 and 0 to delete.
+When the number 1 is pressed the user is asked to add a student to the list.
+the user input should be a first and last name along with an ID number and a the grade they are in.
+
+When the number 2 is pressed the user will be prompted by asking for a student's ID number to search for.
+if found the user is then propmted to change that nodes data like their names ID number and grade.
+
+when the number 3 is press the user is propmted by asking for the ID number if found that node will be deleted and filled in if the next is not null.
+
+When the number 4 is pressed it will print the list of the info on the saved student list.
+if empty nothing is printed.
+
+When 5 is pressed the user is asked for an ID number to add a book to.
+if found they are then asked for the name of a book, when the book is due and if it is renewable in boolean fashion.
+
+When 6 is pressed it will ask for a user ID number, if found it will print their list of books assigned to them.
+
+When 8 is pressed it will be asked for student ID when found it will will itterate through the book list and delete.
+
+When 0 is pressed the program is exited.
